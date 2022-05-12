@@ -15,7 +15,7 @@ Steps to Follow:
     
     5) Once this entire data has been collected, the app must send the data to the cloud ec2 instance running
 
--> Website
+-> Website (http://54.169.121.229:8501/)
     
     1) The website is to be built using python-streamlit
     
