@@ -26,4 +26,4 @@ Steps to Follow:
     4) This data can be then used to automatically populate the dashboard with values
         -> What will the dashboard show? Any graphs? Any tables? [@Sylvester]
 
-![Flowchart]flow.jpg
+![Flowchart](flow.jpg)
