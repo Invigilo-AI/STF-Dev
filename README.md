@@ -2,6 +2,7 @@
 This README file is in development for the communication between the m5stickc device and the app, as well as connecting the app to the aws cloud to populate a dashboard for the user
 
 Steps to Follow:
+
 -> App
 
     1) The UI/UX of the app is not the main priority, the main priority is the functionality
